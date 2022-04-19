@@ -1,3 +1,0 @@
-﻿  ConsoleApplication28.cpp
-C:\Users\user\source\repos\ConsoleApplication28\ConsoleApplication28\Header.h(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ConsoleApplication28.vcxproj -> C:\Users\user\source\repos\ConsoleApplication28\Debug\ConsoleApplication28.exe
